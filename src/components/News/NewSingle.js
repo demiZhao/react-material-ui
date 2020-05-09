@@ -1,7 +1,7 @@
 import React from 'react';
 
 const NewSingle = ({ item }) => (
-  <div className="col s4">
+  <div className="col m4">
     <div className="card">
       <div className="card-image">
         <span class="badge grey lighten-2">{`$  ${item.price}`}</span>
